@@ -25,14 +25,14 @@ Real-time SOC detection Lab - Nmap, Hydra, Metasploit detected in Kibana (ELK)
 ## Screenshots
 
 **Real-Time Dashboard (3 Attacks)**  [Dashboard]
-<img width="1065" height="625" alt="Screenshot 2025-11-18 at 2 59 11 pm" src="https://github.com/user-attachments/assets/ebdbd1f9-3c14-425e-8d34-2bfed7ad2536" />
+<img width="1205" height="712" alt="Screenshot 2025-11-18 at 5 56 45 pm" src="https://github.com/user-attachments/assets/e71d43c0-f251-4166-8fb0-70a6140dab4f" />
 
 
 **Nmap-Logs**  [Nmap Logs]
 <img width="1744" height="1035" alt="Screenshot 2025-11-17 at 1 31 57 pm" src="https://github.com/user-attachments/assets/6fd56359-ee67-4092-a9b0-91c3f4081ca0" />
 
 **Metasploit-Logs** [Metasploit TimeLine]
-<img width="1065" height="621" alt="Screenshot 2025-11-18 at 5 08 35 pm" src="https://github.com/user-attachments/assets/f1ddf5b1-510c-4e70-9c71-06001ad0091c" />
+<img width="1208" height="707" alt="Screenshot 2025-11-18 at 5 56 17 pm" src="https://github.com/user-attachments/assets/33fb38f9-9f4c-4c9d-a6a7-9ba4d6f089ef" />
 
 
 **Hydra-Brute-Force0Volume** 
