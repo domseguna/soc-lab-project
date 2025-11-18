@@ -35,8 +35,7 @@ Real-time SOC detection Lab - Nmap, Hydra, Metasploit detected in Kibana (ELK)
 <img width="1208" height="707" alt="Screenshot 2025-11-18 at 5 56 17 pm" src="https://github.com/user-attachments/assets/33fb38f9-9f4c-4c9d-a6a7-9ba4d6f089ef" />
 
 
-**Hydra-Brute-Force0Volume** 
-[Hydra Timeline]
+**Hydra-Brute-Force0Volume** [Hydra Timeline]
 <img width="1056" height="620" alt="Screenshot 2025-11-18 at 5 20 31 pm" src="https://github.com/user-attachments/assets/5607497a-e7b7-4d5a-b14c-9b85bf72a53b" />
 
 
@@ -53,8 +52,7 @@ Real-time SOC detection Lab - Nmap, Hydra, Metasploit detected in Kibana (ELK)
 <img width="631" height="192" alt="Screenshot 2025-11-18 at 5 34 40 pm" src="https://github.com/user-attachments/assets/9f4be370-2da6-4050-9482-9c0c52982d3a" />
 
 
-**UTM Lab Running**  
-[UTM VMs]
+**UTM Lab Running**  [UTM VMs]
 <img width="1998" height="1279" alt="Screenshot 2025-11-18 at 5 44 15 pm" src="https://github.com/user-attachments/assets/72fbd888-0dd9-41d1-b02c-dfc5c1b4b048" />
 
 
